@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982457075772",
+    "project_id": "parking-74b73",
+    "storage_bucket": "parking-74b73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982457075772:android:3d2c78bdb02ead05751b39",
+        "android_client_info": {
+          "package_name": "com.almaty.parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982457075772-nfucm9e4s5r4sfscjl8v5shr493dcdlr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvJO1TjuIwS3y3MScRDh5M1_ZTnndmeyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982457075772-nfucm9e4s5r4sfscjl8v5shr493dcdlr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
